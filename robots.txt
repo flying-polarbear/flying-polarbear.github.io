@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://chirpy.cotes.info/sitemap.xml
+Sitemap: https://flying-polarbear.github.io//sitemap.xml
