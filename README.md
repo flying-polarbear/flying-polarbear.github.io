@@ -1,4 +1,4 @@
-# Chirpy
+# Theme by Chirpy
 
 [![Build Status](https://travis-ci.org/cotes2020/chirpy.svg?branch=master)](https://travis-ci.org/cotes2020/chirpy)
 [![GitHub release](https://img.shields.io/github/release/cotes2020/chirpy.svg)](https://github.com/cotes2020/chirpy/releases)
